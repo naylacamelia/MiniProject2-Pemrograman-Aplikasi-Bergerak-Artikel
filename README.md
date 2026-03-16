@@ -225,11 +225,13 @@ Halaman pembuatan akun baru. User mengisi email, nickname, password, dan konfirm
     <td align="center"><b>Tampilan Utama</b></td>
     <td align="center"><b>Validasi Field Kosong</b></td>
     <td align="center"><b>Format Input Salah</b></td>
+    <td align="center"><b>Akun sudah terdaftar</b></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/f4b782da-e248-4be8-b93c-d9c5cb3ec632" width="200"/></td>
     <td><img src="https://github.com/user-attachments/assets/98bb35ba-8395-4f4e-b336-4e6bf879e022" width="200"/></td>
     <td><img src="https://github.com/user-attachments/assets/d3b56db7-4413-4a7d-be63-61fd19f29ab1" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/1f0df3e2-d026-43c9-833e-b40487a6df5c" width="300"/></td>
   </tr>
 </table>
  
